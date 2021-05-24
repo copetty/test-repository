@@ -1,0 +1,1 @@
+print("mylibs", __name__)
